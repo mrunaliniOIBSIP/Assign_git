@@ -1,0 +1,9 @@
+hello I'm Mrunalini Wagh 
+
+Assignment 1
+Task 3
+1. Create a file named documentation.txt.
+2. Add a short project description inside it.
+3. Check file status.
+4. Stage the file.
+5. Commit the changes with an appropriate message.
