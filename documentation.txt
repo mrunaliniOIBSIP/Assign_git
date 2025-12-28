@@ -7,3 +7,7 @@ Task 3
 3. Check file status.
 4. Stage the file.
 5. Commit the changes with an appropriate message.
+
+Task 4:
+
+1. Edit documentation.txt and add one more line.
